@@ -15,8 +15,6 @@ struct TrailingIconLabelStyle: LabelStyle {
             configuration.icon
         }
     }
-    
-    
 }
 
 extension LabelStyle where Self == TrailingIconLabelStyle {
